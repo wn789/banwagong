@@ -6,7 +6,7 @@ echo && echo -e "\033[41;36m 请务必仔细阅读相关注释后再运行此脚
 
 #####  请先删除上面一行再运行脚本  #####
 
-#####  更多信息：https://www.bandwagonhost.net/2341.html
+#####  更多信息：https://www.wn789.com
 
 B=USCA_8
 
